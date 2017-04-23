@@ -1,2 +1,1 @@
-# roadstation
-Python一次插入大量数据
+Python一次插入大量数据 使用实例
